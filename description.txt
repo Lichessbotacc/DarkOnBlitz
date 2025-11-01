@@ -1,6 +1,11 @@
-Welcome to our Hourly Blitz Swisses!
-Good luck to everyone here and have fun playing!
+Welcome to our Hourly Blitz Swisses in DarkOnBlitz
+All swisses in this team are created with a automatically running script by @DarkOnCrack 
+[3+0;3+2;5+0;5+3]
 
-  (All swiss tournaments in this team are automatically created by user @DarkOnCrack with a self-made script)
-  His main team: https://lichess.org/team/darkonteams
-  His WhatsApp group: https://chat.whatsapp.com/CLdKn9VzUrL0VN2vrcOJDT
+Our Socials:
+[Whatsapp](https://chat.whatsapp.com/CLdKn9VzUrL0VN2vrcOJDT?mode=ac_t) | [Discord](https://discord.gg/cNS3u7Gnbn)
+
+Our other teams: 
+[Main](https://lichess.org/team/darkonteams) | [Rapid](https://lichess.org/team/darkonrapid) | [Classical](https://lichess.org/team/darkonclassical) | [Bot](https://lichess.org/team/darkonbot) | [Variants](https://lichess.org/team/darkonvariants) | [Swiss](https://lichess.org/team/darkonswiss-dos) |
+
+Good luck & Have fun!
