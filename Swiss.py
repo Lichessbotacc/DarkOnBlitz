@@ -16,10 +16,10 @@ if not API_TOKEN:
 
 # Turnieroptionen mit klaren Namen
 OPTIONS = [
-     {"name": "Hourly Blitz 3+0",           "clock": {"limit": 180,  "increment": 0},  "nbRounds": 13},                                                
-     {"name": "Hourly Blitz 3+2",           "clock": {"limit": 180,  "increment": 2},  "nbRounds": 11}, 
-     {"name": "Hourly Blitz 5+0",           "clock": {"limit": 300,  "increment": 0},  "nbRounds": 9},
-     {"name": "Hourly Blitz 5+3",           "clock": {"limit": 300,  "increment": 3},  "nbRounds": 7},
+     {"name": "Hourly Blitz 3+0",   "clock": {"limit": 180,  "increment": 0},  "nbRounds": 13},                                                
+     {"name": "Hourly Blitz 3+2",   "clock": {"limit": 180,  "increment": 2},  "nbRounds": 11}, 
+     {"name": "Hourly Blitz 5+0",   "clock": {"limit": 300,  "increment": 0},  "nbRounds": 9},
+     {"name": "Hourly Blitz 5+3",   "clock": {"limit": 300,  "increment": 3},  "nbRounds": 7},
 ]
 
 
